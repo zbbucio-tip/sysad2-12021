@@ -1,4 +1,4 @@
-#About the Students
+# About the Students
 
 Name: MARK LOUIE ABELONG
 
@@ -6,7 +6,7 @@ Age: 21 years old
 
 Citizenship: Filipino
 
-#Contact Information
+# Contact Information
 
 Email: qmlrabelong@tip.edu.ph
 

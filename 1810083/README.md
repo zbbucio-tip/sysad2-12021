@@ -1,4 +1,4 @@
-#H1
+#
 Name: Rejay Mar V. Senar
 Age: 20
 Birthday: January 1, 2000

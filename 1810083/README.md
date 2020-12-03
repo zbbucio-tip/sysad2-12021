@@ -3,6 +3,8 @@ Name: Rejay Mar V. Senar
 Age: 20
 Birthday: January 1, 2000
 
+---
+
 Contact Information:
 Email: Figureness269@gmail.com
 Phone Number: 09565027056

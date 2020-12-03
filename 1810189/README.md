@@ -1,6 +1,6 @@
 Name:Kevin Kyle R. Villavicencio
 Birthday:April 2 2000
-field of expertise: Basketball, valorant, cooking###
+field of expertise: Basketball, valorant, cooking
 
 contact information:
 

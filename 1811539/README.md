@@ -1,4 +1,4 @@
-![ERIKA](https://user-images.githubusercontent.com/75420057/101168174-02720600-3676-11eb-9b2d-a5382f1f8e63.png)  
+![ERIKA](https://user-images.githubusercontent.com/75420057/101169832-7dd4b700-3678-11eb-8d6e-310fe83d603b.JPG)   
   
 #####Name:Erika L. Acena  
 #####Field of Expertise:System Administration,Data administration  

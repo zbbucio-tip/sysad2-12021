@@ -1,4 +1,4 @@
-![20191124_013043](https://user-images.githubusercontent.com/75442089/101180929-34d8f00-3687-11eb-8c4d-1c652ee93afb.jpg)  
+![20191124_013043](https://user-images.githubusercontent.com/75442089/101183946-15db9c00-368b-11eb-8f4a-3c859210d09d.jpg)  
 ##### Name: Brenda Hernandez
 ##### Field of Expertise: System Administration
 

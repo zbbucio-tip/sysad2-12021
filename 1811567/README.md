@@ -1,4 +1,4 @@
-![schoolid](https://user-images.githubusercontent.com/75524385/10124890-6b6d820-3737-11eb-8a10-4d4d4058c7f7.jpg)
+![schoolid](https://user-images.githubusercontent.com/75524385/101243408-fdc35580-373a-11eb-9fea-30d757a8a5e3.jpg)  
 ##### Name: Carangan, Melanie M.  
 ##### Field of Expertise: System Administration  
   

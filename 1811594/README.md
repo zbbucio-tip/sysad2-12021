@@ -1,9 +1,8 @@
-![1811594](https://user-images.guthubusercontent.com/75420483/101242906-948e1300-3737-11eb-8d21-dfbe39e163bd.jpg)  
+![1811594](https://user-images.githubusercontent.com/75420483/101243499-bc7f7580-373b-11eb-8bd5-d8b72fa52,jpg)
 ##### Name: Ryan C. Simbulan  
+##### Field of experties: Sysad  
   
-  
+    
 ### Contact Information  
-##### Email: qrcsimbulan@tip.edu.ph  
 ##### Additional Contact Information:  
 ##### 09474972406  
-

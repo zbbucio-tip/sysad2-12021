@@ -1,4 +1,4 @@
-![1811594](https://user-images.githubusercontent.com/75420483/101243784-74f9e900-373d-11eb-55f1213b4928.jpg)  
+![1811594](https://user-images.githubusercontent.com/75420483/101244247-3dd90700-3740-11eb-92cc-05015d8194fb.jpg)  
 ##### Name: Ryan C. Simbulan  
 ##### Field of experties: Sysad  
   

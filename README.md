@@ -2,7 +2,7 @@
 
 # About Me
 
-![My Image](https://avatas0.githubusercontent.com/u/75547975)
+![My Image](https://avatars0.githubusercontent.com/u/75547975)
 
 Name: Gerald D. Maranan
 

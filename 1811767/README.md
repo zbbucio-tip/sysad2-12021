@@ -1,5 +1,5 @@
 # About Me
-![TAN](https://user-image.githubusercontent.com/75564771/101281771-09328180-380c-11eb-9c3d-f8497889b9c3.jpg)
+![TAN](https://user-images.githubusercontent.com/75564771/101283119-90cfbe80-3813-11eb-8775-e99eec2e0314.jpg)
 
 Name: Sharmaine Nicole M. Tan
 Course: BSCPE

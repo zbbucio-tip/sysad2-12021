@@ -8,5 +8,7 @@ Name : Ronan C. Marasigan
 Email : qrcmarasigan@tip.edu.ph
 
 Additional Contact Information :
+
 09166163681 - Globe
+
 09504485298 - Smart

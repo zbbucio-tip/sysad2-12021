@@ -1,6 +1,6 @@
 ## About Me
 **Name:** Elain Perol\
-**Track Elective:** Systems Administration\
+**Track Elective:** Systems Administration
 
 ## Contact Information
 **E-mail:** qesperol@tip.edu.ph\

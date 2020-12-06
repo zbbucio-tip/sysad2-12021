@@ -1,3 +1,6 @@
+
+# sysad2-12021
+=======
  1. **Gerald D. Maranan**
 
  2. *5th Year*
@@ -9,3 +12,4 @@
  4. [qgmaranan@tip.edu.ph](URL)
 
  5. AMD Ryzen 5 3550H with Radeon Vega Mobile Gfx   2.10GHz/ 8.00GB / SSD 512GB
+

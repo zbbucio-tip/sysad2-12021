@@ -1,5 +1,5 @@
 # About Me
-![alt text](https://github.com/rmarasigan-tip/rmarasigan-tip/blob/images/Ronan.jpg
+![alt text](https://github.com/rmarasigan-tip/rmarasigan-tip/blob/images/Ronan.jpg)
 
 Name : Ronan C. Marasigan
 

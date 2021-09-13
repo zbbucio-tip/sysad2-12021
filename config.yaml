@@ -1,0 +1,21 @@
+# Install pip3 and python
+---
+- hosts: all
+  gather_facts: false
+  become: yes
+  - name: Download pip installer
+    get url: https://bootstrap.pypa.io/get-pip.py
+    dest: /tmp/get-pip.py
+  - name: Install pip
+    shell:
+      /user/bin/python /tmp/get-pip.py
+   
+
+# Install java
+---
+- hosts: all
+  gather_facts: false
+  become: yes
+  -name: Install
+  shell:
+     name: java-1.8.0-openjdk	
